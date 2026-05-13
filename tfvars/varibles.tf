@@ -1,5 +1,3 @@
-
-
 variable "environment" {
     type = string
 }
